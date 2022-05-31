@@ -1,4 +1,4 @@
-# Tugas Besar Pengembangan Aplikasi Mobile
+# Tugas Besar Pengembangan Aplikasi Mobile RC
 
 Aplikasi sederhana yang memiliki fungsi menampilkan sebuah daftar produk dan beberapa detail dari produk dengan menggunakan fungsi call API, Serta membuat sebuah fungsi untuk filter dari kategori, rentang harga dan rentang rating. API yang digunakan dalam program merupakan sebuah API produk yang berasal dari DummyJSON yang dapat diakses pada link ini https://dummyjson.com/products dengan mengubah limit menjadi 100 supaya semua data dapat ditampilkan
 
