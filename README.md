@@ -27,4 +27,4 @@ Aplikasi sederhana yang memiliki fungsi menampilkan sebuah daftar produk dan beb
 1. Mario Vebriyanto 119140179
 2. Alloisius Fritz gerald winalda sipayung 119140154
 3. Aulia Thomi Fikriansyah 119140183
-4. Vina Lystia Utami 1191420121
+4. Vina Lystia Utami 119140121
